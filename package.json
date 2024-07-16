@@ -2,10 +2,11 @@
   "name": "backendproject",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "version": "1.0.0",
   "description": "a backend project",
+  "type" : "module",
   "main": "index.js",
   "keywords": [
     "javascript",
