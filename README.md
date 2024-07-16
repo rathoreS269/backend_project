@@ -1,3 +1,2 @@
 # backend_project
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rathoreS269/backend_project)
+this is a backend project to learn the basics of backend with javascript
