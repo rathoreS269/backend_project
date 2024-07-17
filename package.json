@@ -2,7 +2,7 @@
   "name": "backendproject",
   "private": true,
   "scripts": {
-    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+    "dev": "nodemon --env-file=.env src/index.js"
   },
   "version": "1.0.0",
   "description": "a backend project",
